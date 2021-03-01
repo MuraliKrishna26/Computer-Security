@@ -9,3 +9,6 @@ Dependent RSA is a modified version of RSA which is more harder to crack.
 
 
 ![RSA_Image](https://user-images.githubusercontent.com/22263259/109467661-8713cb00-7a91-11eb-8504-6a693dfa280f.JPG)
+
+
+![DRSA_Image](https://user-images.githubusercontent.com/22263259/109467732-a3b00300-7a91-11eb-903b-9567b1ffa3b9.JPG)
